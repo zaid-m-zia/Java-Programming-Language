@@ -7,7 +7,7 @@ public class Static_Variables {
         int a= 10; //local variable
         System.out.println(a);
         System.out.println(Static_Variables.b);
-        Static_Variables ref= new Static_Variables();
+        Static_Variables ref = new Static_Variables(); //this is a reference of the class Static_Variables.
         System.out.println(ref.c);  //instance variables will be accessed using object ref name not class name
 
     }
