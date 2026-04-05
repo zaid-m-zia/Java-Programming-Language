@@ -18,8 +18,8 @@ public class Input_output_CLASS {
 
     }
 }
-class b extends Input_output_CLASS{
-    public void add(){
-        System.out.println(a+b);
-    }
-}
+//class b extends Input_output_CLASS{
+//    public void add(){
+//        System.out.println(a+b);
+//    }
+//}
